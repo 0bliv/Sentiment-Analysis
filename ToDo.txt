@@ -1,1 +1,4 @@
-- Add User input
+- Add User input. [V]
+- Display sentiment analysis results in a graphical form. [V]
+- Support for other lenguages.(?)
+
